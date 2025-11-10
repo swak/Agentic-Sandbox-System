@@ -1,0 +1,74 @@
+Sample FAQ Knowledge Base
+=========================
+
+Shipping & Delivery
+-------------------
+
+Q: How long does shipping take?
+A: Standard shipping takes 5-7 business days. Express shipping (2-3 days) is available for an additional fee of $15.
+
+Q: Do you offer international shipping?
+A: Yes, we ship to over 50 countries worldwide. International shipping takes 10-14 business days. Customs fees may apply.
+
+Q: How can I track my order?
+A: Once your order ships, you'll receive a tracking number via email. You can also track your order by logging into your account on our website.
+
+Returns & Refunds
+-----------------
+
+Q: What is your return policy?
+A: We accept returns within 30 days of purchase. Items must be in original condition with tags attached. Refunds are processed within 5-7 business days.
+
+Q: How do I initiate a return?
+A: Log into your account, go to "Order History," select the item you want to return, and click "Request Return." Print the prepaid return label and drop off the package at any UPS location.
+
+Q: Are there any items that cannot be returned?
+A: Yes, we cannot accept returns on final sale items, personalized products, or opened beauty/hygiene items.
+
+Product Information
+-------------------
+
+Q: How do I find my size?
+A: Each product page includes a detailed size chart. Click on "Size Guide" next to the size selector. If you're between sizes, we recommend sizing up.
+
+Q: Are your products eco-friendly?
+A: Many of our products are made from sustainable materials. Look for the "Eco-Friendly" badge on product pages. We're committed to reducing our environmental impact.
+
+Q: Do you offer gift wrapping?
+A: Yes, gift wrapping is available for $5 per item. Select the gift wrapping option during checkout.
+
+Account & Orders
+----------------
+
+Q: How do I create an account?
+A: Click "Sign Up" in the top right corner, enter your email and create a password. You can also sign up using Google or Facebook.
+
+Q: I forgot my password. What should I do?
+A: Click "Forgot Password" on the login page. Enter your email, and we'll send you a password reset link.
+
+Q: Can I modify my order after placing it?
+A: Orders can be modified within 1 hour of placement. Contact our support team immediately at support@example.com or call 1-800-123-4567.
+
+Payment & Pricing
+-----------------
+
+Q: What payment methods do you accept?
+A: We accept Visa, Mastercard, American Express, Discover, PayPal, and Apple Pay.
+
+Q: Do you offer price matching?
+A: Yes, if you find a lower price on an identical item within 14 days of purchase, we'll refund the difference. Contact support with proof of the lower price.
+
+Q: Are there any discounts for bulk orders?
+A: Yes, bulk discounts are available for orders of 10+ items. Contact our sales team at sales@example.com for a custom quote.
+
+Customer Support
+----------------
+
+Q: How can I contact customer support?
+A: You can reach us via:
+- Email: support@example.com (response within 24 hours)
+- Phone: 1-800-123-4567 (Mon-Fri 9AM-6PM EST)
+- Live Chat: Available on our website (Mon-Fri 9AM-9PM EST)
+
+Q: Do you have a physical store?
+A: We're an online-only retailer, but you can visit our showroom in New York City by appointment. Email showroom@example.com to schedule a visit.
