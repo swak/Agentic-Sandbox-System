@@ -2,6 +2,7 @@
   "name": "agentic-sandbox-frontend",
   "version": "1.0.0",
   "description": "React frontend for Agentic Sandbox System",
+  "author": "Shaun Wakashige <shaun.wakashige@gmail.com>",
   "private": true,
   "dependencies": {
     "react": "^18.2.0",

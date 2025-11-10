@@ -47,7 +47,7 @@ Q: I forgot my password. What should I do?
 A: Click "Forgot Password" on the login page. Enter your email, and we'll send you a password reset link.
 
 Q: Can I modify my order after placing it?
-A: Orders can be modified within 1 hour of placement. Contact our support team immediately at support@example.com or call 1-800-123-4567.
+A: Orders can be modified within 1 hour of placement. Contact our support team immediately at email@example.com or call 1-800-123-4567.
 
 Payment & Pricing
 -----------------
@@ -59,16 +59,16 @@ Q: Do you offer price matching?
 A: Yes, if you find a lower price on an identical item within 14 days of purchase, we'll refund the difference. Contact support with proof of the lower price.
 
 Q: Are there any discounts for bulk orders?
-A: Yes, bulk discounts are available for orders of 10+ items. Contact our sales team at sales@example.com for a custom quote.
+A: Yes, bulk discounts are available for orders of 10+ items. Contact our sales team at email@example.com for a custom quote.
 
 Customer Support
 ----------------
 
 Q: How can I contact customer support?
 A: You can reach us via:
-- Email: support@example.com (response within 24 hours)
+- Email: email@example.com (response within 24 hours)
 - Phone: 1-800-123-4567 (Mon-Fri 9AM-6PM EST)
 - Live Chat: Available on our website (Mon-Fri 9AM-9PM EST)
 
 Q: Do you have a physical store?
-A: We're an online-only retailer, but you can visit our showroom in New York City by appointment. Email showroom@example.com to schedule a visit.
+A: We're an online-only retailer, but you can visit our showroom in New York City by appointment. Email email@example.com to schedule a visit.

@@ -86,7 +86,7 @@ class KnowledgeVector(Base):
     agent_id = Column(UUID(as_uuid=True), ForeignKey('agents.id', ondelete='CASCADE'), nullable=False)
     chunk_text = Column(Text, nullable=False)
     embedding = Column(Vector(1536))  # OpenAI embedding dimension
-    metadata = Column(JSONB)  # Source file, page number, etc.
+    metadata_ = Column('metadata', JSONB)  # Source file, page number, etc. (renamed to avoid SQLAlchemy conflict)
     created_at = Column(TIMESTAMP, server_default=func.now())
 
     def to_dict(self):
@@ -95,7 +95,7 @@ class KnowledgeVector(Base):
             "id": str(self.id),
             "agent_id": str(self.agent_id),
             "chunk_text": self.chunk_text,
-            "metadata": self.metadata,
+            "metadata": self.metadata_,
             "created_at": self.created_at.isoformat() if self.created_at else None
         }
 

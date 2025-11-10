@@ -5,6 +5,7 @@ Provides async SQLAlchemy engine and session factory.
 
 from sqlalchemy.ext.asyncio import create_async_engine, AsyncSession, async_sessionmaker
 from sqlalchemy.orm import declarative_base
+from sqlalchemy import text
 from typing import AsyncGenerator
 import logging
 
@@ -40,7 +41,7 @@ async def init_db():
     try:
         async with engine.begin() as conn:
             # Test connection
-            await conn.execute("SELECT 1")
+            await conn.execute(text("SELECT 1"))
             logger.info("Database connection established")
 
             # Note: In production, use Alembic for migrations

@@ -7,6 +7,7 @@ from fastapi import FastAPI, HTTPException
 from fastapi.middleware.cors import CORSMiddleware
 from fastapi.responses import JSONResponse
 from contextlib import asynccontextmanager
+from sqlalchemy import text
 import logging
 
 from app.api import agents, chat, rag, audit
@@ -88,7 +89,7 @@ async def health_check():
 
         async for db in get_db():
             # Test database connection
-            await db.execute("SELECT 1")
+            await db.execute(text("SELECT 1"))
 
             return {
                 "status": "healthy",

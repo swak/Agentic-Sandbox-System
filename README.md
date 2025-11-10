@@ -627,8 +627,7 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 ## Support
 
 - **Issues**: [GitHub Issues](https://github.com/yourusername/agentic-sandbox-system/issues)
-- **Documentation**: [Full Docs](https://docs.example.com)
-- **Email**: support@example.com
+- **Email**: shaun.wakashige@gmail.com
 
 ---
 
